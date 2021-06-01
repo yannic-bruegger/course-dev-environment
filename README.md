@@ -1,4 +1,4 @@
----
+<!--
 layout: workshop
 titel: Let's manage our development environment!
 social-media-untertitel: Online-Workshop am 8. Juni 2021
@@ -10,7 +10,7 @@ art: workshop
 termin: Dienstag, 8. Juni 2021, 13:00 Uhr
 dauer: 120-150 Minuten 
 raum: https://th-koeln.zoom.us/j/89337586017?pwd=L2hBbmczaWJ6TStkUjMxTHlRc0ZhUT09
----
+-->
 
 ![Let's manage our development environement](title.png)
 
